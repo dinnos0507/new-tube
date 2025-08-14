@@ -10,5 +10,13 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit"
   },
-  "cSpell.words": ["cmdk", "embla", "neondatabase", "sonner", "svix", "vaul"]
+  "cSpell.words": [
+    "cmdk",
+    "Dinnos",
+    "embla",
+    "neondatabase",
+    "sonner",
+    "svix",
+    "vaul"
+  ]
 }
