@@ -6,5 +6,5 @@ export const PageClient = () => {
   const [data] = trpc.hello.useSuspenseQuery({
     text: "Dinnos",
   });
-  return <div> Page client : {data.greeting} </div>;
+  return <div>Page client says: {data.greeting} </div>;
 };
