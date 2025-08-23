@@ -5,7 +5,7 @@ import { toast } from "sonner";
 import { Button } from "@/components/ui/button";
 import { trpc } from "@/trpc/client";
 import { Loader2Icon, PlusIcon } from "lucide-react";
-import { ResponsiveModal } from "@/components/responsive-dialog";
+import { ResponsiveModal } from "@/components/responsive-modal";
 
 import { StudioUploader } from "./studio-uploader";
 
